@@ -38,6 +38,10 @@ When submitting your project, you should prepare your code for upload to Greenho
 
 Please provide the source code only, a compiled binary is not necessary.
 
+## Using Libraries
+
+You may use libraries (both built-in and installed via package managers) and system calls as necessary. Please don't use the ping built-in application or a full library implementation of ping.
+
 ## Extra Credit
 
 1. Add support for both IPv4 and IPv6
